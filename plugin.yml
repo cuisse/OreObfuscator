@@ -1,0 +1,7 @@
+
+  name: OreObfuscator
+  author: Romn
+  version: 1.0
+  main: OreObfuscator\Main
+  api: 3.0.0
+  load: POSTWORLD

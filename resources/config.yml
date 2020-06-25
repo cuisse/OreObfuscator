@@ -1,0 +1,15 @@
+# Here you can set the whitelisted worlds.
+# Example:
+#
+# worlds:
+#  hub1: true
+#  hub2: true
+worlds: []
+
+# Here you can set the whitelisted players.
+# Example:
+#
+# players:
+#  Player1: true
+#  Player2: true
+players: []
